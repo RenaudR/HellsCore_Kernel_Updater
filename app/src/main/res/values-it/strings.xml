@@ -35,7 +35,7 @@
     <string name="msg_downloadComplete">Download completato</string>
     <string name="msg_updateFound">È stata trovata una nuova versione del kernel</string>
     <string name="msg_changeable">Questa impostazione può essere modificata tramite la sezione impostazione</string>
-    <string name="msg_twrp"L\'istallazione automatica funziona solo con la TWRP recovery. La CWM non è supportata.</string>
+    <string name="msg_twrp">L\'istallazione automatica funziona solo con la TWRP recovery. La CWM non è supportata.</string>
 
     <string name="btn_whatsNew">Cosa c\'è di nuovo</string>
     <string name="btn_getIt">Scarica la guida</string>
